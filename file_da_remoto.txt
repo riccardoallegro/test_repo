@@ -1,0 +1,1 @@
+Questo file è stato creato su GitHub per simulare una situazione in cui il branch (master) locale non è aggiornato rispetto al remoto.
